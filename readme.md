@@ -10,6 +10,6 @@ A basic and interactive stop watch webb application template with styling. This 
 
 ## Usage
 
-1. Clone the repository:
+1. Clone my repository:
    ```bash
    git clone https://github.com/zonivisuals/PRODIGY_WD_02
